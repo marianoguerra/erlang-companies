@@ -87,3 +87,11 @@ WhatsApp:
   github: https://github.com/WhatsApp
   location: Menlo Park, CA
   description: How do you support 450 million users with only 32 engineers? For WhatsApp, the answer was Erlang.
+
+Instadeq:
+  industry: Data Analysis and Visualization
+  url: https://www.instadeq.com/
+  blog: https://instadeq.com/blog/
+  github: https://github.com/instadeq/
+  location: Stuttgart, Germany; Lisbon, Portugal; Córdoba, Argentina
+  description: Data analysis, visualization and collaboration platform for individuals and teams. Backend implemented in Erlang.
